@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165661174064",
+    "firebase_url": "https://bobo-7ffe3.firebaseio.com",
+    "project_id": "bobo-7ffe3",
+    "storage_bucket": "bobo-7ffe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165661174064:android:6478d70a21261e49",
+        "android_client_info": {
+          "package_name": "ke.co.bobo.bobo_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165661174064-v06lc7qsdoc1mnp55fh6c1ac3rbf8uvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJIr56EbalrTvpDUEYMrt5KN_P8oa7JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165661174064-v06lc7qsdoc1mnp55fh6c1ac3rbf8uvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
